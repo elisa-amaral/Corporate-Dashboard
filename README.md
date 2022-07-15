@@ -1,6 +1,6 @@
 # Corporate Dashboard
 
-This project is a Corporate Dashboard for a fictional company. It was coded in PHP, AXAX with jQuery, MySQL (MariaDB), HTML, CSS and Bootstrap.
+This project is a Corporate Dashboard for a fictional company. It was coded in PHP, AJAX with jQuery, MySQL (MariaDB), HTML, CSS and Bootstrap.
 
 ## Screenshot 
 
