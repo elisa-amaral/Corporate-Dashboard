@@ -4,7 +4,7 @@ This project is a Corporate Dashboard for a fictional company. It was coded in P
 
 ## Screenshot 
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpg)
 
 ## Technology Stack
 
